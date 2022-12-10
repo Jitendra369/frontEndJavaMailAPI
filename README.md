@@ -1,4 +1,6 @@
 # EmailApp
+This is front-end of JavaMail-Api project, which is uploaded in this git account.
+this front end angular application contains simple web page email service that use the backend rest-API, which is written in springboot.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.3.
 

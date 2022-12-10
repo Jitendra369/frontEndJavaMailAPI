@@ -1,0 +1,17 @@
+.container{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.field{
+    width: 100%;
+}
+
+.card{
+    width: 60%;
+    margin: auto;
+    background-color: white;
+    padding: 20px;
+    box-shadow: 5px 5px 5px gray;
+    border-radius: 10px;
+}

@@ -1,4 +1,4 @@
-# EmailApp
+# FrontEnd EmailApp using AngularJS
 This is front-end of JavaMail-Api project, which is uploaded in this git account.
 this front end angular application contains simple web page email service that use the backend rest-API, which is written in springboot.
 
